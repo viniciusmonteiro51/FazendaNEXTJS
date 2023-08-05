@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.menu {
+    
+    background-color: #1B4436;
+  text-decoration: none;
+    
+}
+
+.menu1{
+    display: flex;
+    gap: 10px;
+    padding: 20px;  
+    list-style: none;
+    margin-left: 127px;
+    color: white;
+    font-family: 'Quicksand';
+    
+}
+
+.menu1 li{
+     margin-right: 17.5px;
+}
