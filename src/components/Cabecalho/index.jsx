@@ -12,6 +12,13 @@ export default function Cabecalho() {
           height={535}
           className={styles.imagem}
         />
+        <Image 
+        src="/logo.png"
+        alt="Imagem da logo"
+        layout='fill'
+        objectFit='none'
+        className={styles.logo}
+        />
         <h1 className={styles.meio}>Fazenda Orgânica</h1>
       </div>
     </header>

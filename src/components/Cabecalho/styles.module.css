@@ -10,7 +10,7 @@
     position: relative;
   }
   
-  .meio {
+.meio {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -24,4 +24,10 @@
     font-family: 'Quicksand';
   }
 
+.logo{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(0, -30%);
+}
   
